@@ -1,2 +1,2 @@
 # React
-React Projects
+React Mini Projects
